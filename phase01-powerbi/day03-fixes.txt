@@ -1,0 +1,19 @@
+Messy dataset problem fix
+
+1.Blank rows(age ,salary)
+   Problem: Some rows had blank/null values 
+   Fix :  Removed blank spaces and replaced values  using average  
+
+2.Duplicate records
+   Problem: same customer entries were repeated
+   Fix : Removed duplicates(Home → Remove Rows → Remove Duplicates)
+
+3.Wrong data type
+   Problem: some columns are Incorrect data type  
+  •Join Date
+  • Salary
+  Fix : Change columns data types( Transform → Data type)
+
+4.Inconsistent Text
+   Problem: Phone column contained negative values
+   Fix :Remove "-" sign using Replace values
