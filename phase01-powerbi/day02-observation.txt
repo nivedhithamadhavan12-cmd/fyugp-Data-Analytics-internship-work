@@ -1,0 +1,23 @@
+Day-2
+POWER BI
+
+
+1.Number of rows: 50
+2. Number of column: 12
+
+3.Column mean:
+  - OrderID: Unique order ID
+  - Date: Order date
+  - CustomerName: Name of customer
+  - Product: Product name
+  - Category: Product type
+  - Region: Area of sale
+  - City: City of sale
+  - Quantity: Number of items sold
+  - UnitPrice: Price per item
+  - TotalAmount: Total price
+  - PaymentMethod: payment type
+  - SalesPerson: Person who made the sale(seller name)
+
+4.One surprising thing:
+   Delhi has more sales than other cities.
