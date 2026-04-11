@@ -1,0 +1,13 @@
+﻿1.Filtered Rows – Filtered the dataset to show only required records. 
+ 
+2.Sorted Rows – Sorted the data for better organization. 
+ 
+3.Split Column – Split a column into multiple parts using a delimiter. 
+ 
+4.Changed Type1 – Adjusted data types after splitting the column. 
+ 
+5.Renamed Columns – Renamed columns to make them more meaningful. 
+ 
+6.Added Conditional Column – Created a new column (Salary Bucket) based on conditions. 
+ 
+7.Renamed Columns3 – Renamed the new column for better understanding.
