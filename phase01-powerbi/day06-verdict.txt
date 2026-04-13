@@ -1,0 +1,1 @@
+The bar chart is clear because it makes it easy to compare total salary across different cities. In the pie chart, the slices look similar in size, making it difficult to identify small differences between cities. Therefore, the bar chart is more effective for comparison, while the pie chart is only useful for showing general proportions.
