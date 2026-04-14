@@ -1,0 +1,7 @@
+Insight from Slicer:
+
+After adding a slicer using Job Role, I observed that Managers have the highest salary and experience compared to other roles.
+
+Analysts have moderate salary and experience, while Executives have lower values.
+
+This difference was not clearly visible when all data was shown together, but became clear after filtering using the slicer.
