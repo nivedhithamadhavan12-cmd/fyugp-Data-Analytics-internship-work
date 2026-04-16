@@ -1,0 +1,1 @@
+The total salary is 89M, but for Analysts it is 18M because this measure only includes employees with the Analyst role.
