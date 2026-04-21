@@ -1,0 +1,10 @@
+1. Fixed Alignment and Layout
+    In the old dashboard, visuals were not properly aligned and looked disorganized. I rearranged all elements into a structured layout with KPI cards on top, charts in the middle, and trend analysis at the bottom.
+    This makes the dashboard clean and easy to follow.
+
+2. Applied Consistent Color Theme
+   Previously, the dashboard had no proper color scheme. I used a consistent color palette across all visuals.
+   This improves readability and gives a professional appearance.
+
+3. Added and Improved Visuals
+    The earlier dashboard had fewer and less useful graphs. I added important visuals like Sales by Region, Sales by Category, and Sales Trend over time.
