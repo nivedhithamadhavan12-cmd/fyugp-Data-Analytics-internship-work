@@ -1,0 +1,4 @@
+This dashboard shows how sales and profit vary across different categories, regions, and months.
+Technology generates the highest sales compared to other categories.
+Sales increase over time with some noticeable dips in between.
+Overall profitability is steady, with certain regions performing better than others.
