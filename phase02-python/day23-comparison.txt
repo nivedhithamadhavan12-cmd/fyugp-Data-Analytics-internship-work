@@ -1,0 +1,7 @@
+Power BI was easier for making charts and dashboards. I could just drag and drop columns to create graphs quickly. It helped me understand the data fast without writing any code.
+
+Python was easier for cleaning data and doing calculations. I used pandas to fill missing values, filter data, and change columns easily. In Power BI, the same work takes more steps.
+
+I enjoyed Python more because I can control everything using code. Once I write the code, I can reuse it again, which saves time.
+
+If I had to make a report for a teacher or manager, I would use Power BI because it creates clear and good-looking dashboards. But I would use Python first to clean and prepare the data.
